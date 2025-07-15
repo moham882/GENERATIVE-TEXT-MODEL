@@ -95,3 +95,4 @@ Enhance text quality and realism.
 
 **OUTPUT:**
 
+![Image](https://github.com/user-attachments/assets/ce0380ce-e000-4db4-a38c-fe67d102afca)
